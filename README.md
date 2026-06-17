@@ -1,4 +1,4 @@
 # Live-Chat-App
 LIVE CHAT APP USING SOCKET.IO AND NODE.JS
 
-Not Forget to Download socket.io and node.js library in your device.
+Don't forget to download socket.io and node.js libraries in your device.
